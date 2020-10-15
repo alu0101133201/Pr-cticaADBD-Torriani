@@ -49,5 +49,21 @@ diseño de una base de datos acorde a sus objetivos y exigencias.
     - Denuncias.
     - Valoración.
   
-  ## Realciones entre entidades
+  ## Relaciones entre entidades
+    - Patrimonio histórico (aparecen en) documentos
+    - Empresa (invierte en) patrimonio histórico
+    - Empresa (patrocina) patrimonio histórico  
+    - Evento (se realiza en) patrimonio histórico
+    - Información de usuarios (hace referencia a) patrimonio histórico
+    - Patrimonio histórico (tiene) medios de protección
+    - Patrimonio histórico (recibe) inversiones públicas
+    - Empresa (organiza) eventos
     
+## Fuentes de información  
+  - Documentos oficiales del estado
+  - Registros de organizaciones inversoras u organizadoras de eventos
+  - Legislación de elementos patrimoniales
+  - Documentos históricos
+  - Documentos científicos
+  - Opiniones de usuarios
+ 
