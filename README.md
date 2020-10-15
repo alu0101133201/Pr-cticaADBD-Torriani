@@ -55,6 +55,7 @@ diseño de una base de datos acorde a sus objetivos y exigencias.
   - Patrimonio histórico (aparecen en) documentos
   - Empresa (invierte en) patrimonio histórico
   - Empresa (patrocina) patrimonio histórico  
+  - Empresa (realiza su actividad) patrimonio histórico  
   - Evento (se realiza en) patrimonio histórico
   - Información de usuarios (hace referencia a) patrimonio histórico
   - Patrimonio histórico (tiene) medios de protección
