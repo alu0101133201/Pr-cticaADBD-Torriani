@@ -1,12 +1,14 @@
 # PracticaADBD-Torriani
-  - Eduardo José Díaz Hernandez  
-  - Esther Jorge Paramio  
-  - Sergio Guerra Arencibia   
-  - Victoria Montserrat Manrique Rolo.  
+## Introducción
 
 Este documento contiene un planteamiento inicial del supuesto "La fundación de Torriani".  
 La fundación torriani nos proporciona información sobre sus objetivos y nosotros hemos de comenzar a esbozar el 
 diseño de una base de datos acorde a sus objetivos y exigencias.  
+
+- Eduardo José Díaz Hernandez  
+- Esther Jorge Paramio  
+- Sergio Guerra Arencibia   
+- Victoria Montserrat Manrique Rolo.  
   
 ## Entidades  
   - Patrimonio histórico:
@@ -50,14 +52,14 @@ diseño de una base de datos acorde a sus objetivos y exigencias.
     - Valoración.
   
   ## Relaciones entre entidades
-    - Patrimonio histórico (aparecen en) documentos
-    - Empresa (invierte en) patrimonio histórico
-    - Empresa (patrocina) patrimonio histórico  
-    - Evento (se realiza en) patrimonio histórico
-    - Información de usuarios (hace referencia a) patrimonio histórico
-    - Patrimonio histórico (tiene) medios de protección
-    - Patrimonio histórico (recibe) inversiones públicas
-    - Empresa (organiza) eventos
+  - Patrimonio histórico (aparecen en) documentos
+  - Empresa (invierte en) patrimonio histórico
+  - Empresa (patrocina) patrimonio histórico  
+  - Evento (se realiza en) patrimonio histórico
+  - Información de usuarios (hace referencia a) patrimonio histórico
+  - Patrimonio histórico (tiene) medios de protección
+  - Patrimonio histórico (recibe) inversiones públicas
+  - Empresa (organiza) eventos
     
 ## Fuentes de información  
   - Documentos oficiales del estado
